@@ -1,3 +1,4 @@
+using backEnd.Repositorios;
 using Microsoft.AspNetCore.Mvc;
 
 namespace backEnd.Controllers
@@ -12,15 +13,19 @@ namespace backEnd.Controllers
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
+        private readonly IRepositorio repositorio;
 
-        public WeatherForecastController(ILogger<WeatherForecastController> logger)
+        public WeatherForecastController(ILogger<WeatherForecastController> logger,
+            IRepositorio repositorio)
         {
             _logger = logger;
+            this.repositorio = repositorio;
         }
 
         [HttpGet(Name = "GetWeatherForecast")]
         public IEnumerable<WeatherForecast> Get()
         {
+            repositorio.ObtenerTodosLosGeneros();
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {
                 Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
