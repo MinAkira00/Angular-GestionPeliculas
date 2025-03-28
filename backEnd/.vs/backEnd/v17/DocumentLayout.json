@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\entidades\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\entidades\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\repositorios\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,69 +23,63 @@
       "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\repositorios\\repositorioenmemoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\entidades\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\entidades\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\validaciones\\primeraletramayusculaattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\validaciones\\primeraletramayusculaattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 130,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GeneroController.cs",
-              "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Controllers\\GeneroController.cs",
-              "RelativeDocumentMoniker": "backEnd\\Controllers\\GeneroController.cs",
-              "ToolTip": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Controllers\\GeneroController.cs",
-              "RelativeToolTip": "backEnd\\Controllers\\GeneroController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T12:26:36.198Z",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\appsettings.json",
+              "RelativeDocumentMoniker": "backEnd\\appsettings.json",
+              "ToolTip": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\appsettings.json",
+              "RelativeToolTip": "backEnd\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T18:22:24.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Program.cs",
-              "RelativeDocumentMoniker": "backEnd\\Program.cs",
-              "ToolTip": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Program.cs",
-              "RelativeToolTip": "backEnd\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T12:23:09.333Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "backEnd\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "backEnd\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T12:22:31.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Repositorios\\IRepositorio.cs",
-              "RelativeDocumentMoniker": "backEnd\\Repositorios\\IRepositorio.cs",
-              "ToolTip": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Repositorios\\IRepositorio.cs",
-              "RelativeToolTip": "backEnd\\Repositorios\\IRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T12:21:16.048Z",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "backEnd\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\appsettings.Development.json",
+              "RelativeToolTip": "backEnd\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T17:55:26.447Z",
               "EditorCaption": ""
             },
             {
@@ -96,22 +90,87 @@
               "RelativeDocumentMoniker": "backEnd\\Repositorios\\RepositorioEnMemoria.cs",
               "ToolTip": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Repositorios\\RepositorioEnMemoria.cs",
               "RelativeToolTip": "backEnd\\Repositorios\\RepositorioEnMemoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T12:05:20.158Z",
+              "WhenOpened": "2025-03-28T17:04:01.902Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "GeneroController.cs",
+              "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Controllers\\GeneroController.cs",
+              "RelativeDocumentMoniker": "backEnd\\Controllers\\GeneroController.cs",
+              "ToolTip": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Controllers\\GeneroController.cs",
+              "RelativeToolTip": "backEnd\\Controllers\\GeneroController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T16:47:18.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "backEnd\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "backEnd\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:22:31.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Program.cs",
+              "RelativeDocumentMoniker": "backEnd\\Program.cs",
+              "ToolTip": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Program.cs",
+              "RelativeToolTip": "backEnd\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:23:09.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Repositorios\\IRepositorio.cs",
+              "RelativeDocumentMoniker": "backEnd\\Repositorios\\IRepositorio.cs",
+              "ToolTip": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Repositorios\\IRepositorio.cs",
+              "RelativeToolTip": "backEnd\\Repositorios\\IRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:21:16.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Genero.cs",
               "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Entidades\\Genero.cs",
               "RelativeDocumentMoniker": "backEnd\\Entidades\\Genero.cs",
               "ToolTip": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Entidades\\Genero.cs",
               "RelativeToolTip": "backEnd\\Entidades\\Genero.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-28T12:04:00.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PrimeraLetraMayusculaAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Validaciones\\PrimeraLetraMayusculaAttribute.cs",
+              "RelativeDocumentMoniker": "backEnd\\Validaciones\\PrimeraLetraMayusculaAttribute.cs",
+              "ToolTip": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Validaciones\\PrimeraLetraMayusculaAttribute.cs",
+              "RelativeToolTip": "backEnd\\Validaciones\\PrimeraLetraMayusculaAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T16:42:46.966Z",
               "EditorCaption": ""
             }
           ]
