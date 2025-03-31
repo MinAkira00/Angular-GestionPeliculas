@@ -10,7 +10,7 @@ namespace backEnd.Entidades
         [Required(ErrorMessage = "El campo {0} es obligatorio.")]
         [StringLength(maximumLength:50)]
         [PrimeraLetraMayuscula]
-        public required string Nombre { get; set; }    
+        public string Nombre { get; set; }    
 
     }
 }
