@@ -34,6 +34,8 @@ import { FormularioCineComponent } from './cines/formulario-cine/formulario-cine
 import { SelectorMutilpleComponent } from './utilidades/selector-mutilple/selector-mutilple.component';
 import { AutocompleteActoresComponent } from './actores/autocomplete-actores/autocomplete-actores.component';
 import { MapaComponent } from './utilidades/mapa/mapa.component';
+import {HttpClientModule} from '@angular/common/http';
+import { MostrarErroresComponent } from './utilidades/mostrar-errores/mostrar-errores.component';
 
 @NgModule({
   declarations: [
@@ -63,7 +65,8 @@ import { MapaComponent } from './utilidades/mapa/mapa.component';
     FormularioCineComponent,
     SelectorMutilpleComponent,
     AutocompleteActoresComponent,
-    MapaComponent
+    MapaComponent,
+    MostrarErroresComponent
   ],
   imports: [
     BrowserModule,
@@ -72,7 +75,8 @@ import { MapaComponent } from './utilidades/mapa/mapa.component';
     MaterialModule,
     ReactiveFormsModule,
     FormsModule,
-    MarkdownModule.forRoot()
+    MarkdownModule.forRoot(),
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -1,6 +1,26 @@
 [
   {
     "ContainingType": "backEnd.Controllers.GeneroController",
+    "Method": "Get",
+    "RelativePath": "api/generos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[backEnd.Entidades.Genero, backEnd, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "backEnd.Controllers.GeneroController",
     "Method": "Post",
     "RelativePath": "api/generos",
     "HttpMethod": "POST",
@@ -53,97 +73,11 @@
         "Name": "Id",
         "Type": "System.Int32",
         "IsRequired": true
-      },
-      {
-        "Name": "Nombre",
-        "Type": "System.String",
-        "IsRequired": false
       }
     ],
     "ReturnTypes": [
       {
         "Type": "backEnd.Entidades.Genero",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "backEnd.Controllers.GeneroController",
-    "Method": "GetGUID",
-    "RelativePath": "api/generos/guid",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Guid",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "backEnd.Controllers.GeneroController",
-    "Method": "Get",
-    "RelativePath": "api/generos/listado",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.List\u00601[[backEnd.Entidades.Genero, backEnd, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "backEnd.Controllers.WeatherForecastController",
-    "Method": "Get",
-    "RelativePath": "WeatherForecast",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[backEnd.WeatherForecast, backEnd, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ],
-    "EndpointName": "GetWeatherForecast"
-  },
-  {
-    "ContainingType": "backEnd.Controllers.WeatherForecastController",
-    "Method": "ObtenerGuidWeatherForecastController",
-    "RelativePath": "WeatherForecast/guid",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Guid",
         "MediaTypes": [
           "text/plain",
           "application/json",
