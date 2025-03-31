@@ -14,6 +14,7 @@ builder.Services.AddControllers(options => {
 
 var configuration = builder.Configuration;
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+builder.Services.AddAutoMapper(typeof(Program));
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
@@ -26,7 +27,8 @@ builder.Services.AddCors(options =>
         var frontendURL = configuration.GetValue<string>("frontend_url");
         builder.WithOrigins(frontendURL)
             .AllowAnyMethod()
-            .AllowAnyHeader();
+            .AllowAnyHeader()
+            .WithExposedHeaders(new string[] {"cantidadTotalRegistros"});
     });
 });
 var app = builder.Build();
