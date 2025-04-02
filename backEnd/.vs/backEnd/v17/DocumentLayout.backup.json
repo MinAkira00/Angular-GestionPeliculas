@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\dtos\\actorcreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\dtos\\actorcreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\entidades\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\entidades\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\entidades\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\entidades\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\controllers\\actorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\controllers\\actorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\dtos\\generocreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,28 +27,60 @@
       "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\dtos\\generodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\dtos\\paginaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\dtos\\paginaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\utilidades\\almacenadorarchivoslocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\utilidades\\almacenadorarchivoslocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\dtos\\actordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\dtos\\actordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\migrations\\20250402162744_actores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\migrations\\20250402162744_actores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\utilidades\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\utilidades\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\utilidades\\iqueryableextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\utilidades\\iqueryableextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\utilidades\\ialmacenadorarchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\utilidades\\ialmacenadorarchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Migrations\\20250402162714_Actores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backEnd\\Migrations\\20250402162714_Actores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\filtros\\filtrodeexcepcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\filtros\\filtrodeexcepcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\dtos\\paginaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\dtos\\paginaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\utilidades\\iqueryableextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\utilidades\\iqueryableextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Migrations\\20250402120922_Actores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backEnd\\Migrations\\20250402120922_Actores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\migrations\\20250331103820_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\migrations\\20250331103820_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\entidades\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\entidades\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\utilidades\\httpcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,10 +93,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\migrations\\20250331103820_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\migrations\\20250331103820_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -75,19 +111,135 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "20250402162744_Actores.cs",
+              "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Migrations\\20250402162744_Actores.cs",
+              "RelativeDocumentMoniker": "backEnd\\Migrations\\20250402162744_Actores.cs",
+              "ToolTip": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Migrations\\20250402162744_Actores.cs",
+              "RelativeToolTip": "backEnd\\Migrations\\20250402162744_Actores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T16:27:44.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250402162714_Actores.cs",
+              "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Migrations\\20250402162714_Actores.cs",
+              "RelativeDocumentMoniker": "backEnd\\Migrations\\20250402162714_Actores.cs",
+              "ToolTip": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Migrations\\20250402162714_Actores.cs",
+              "RelativeToolTip": "backEnd\\Migrations\\20250402162714_Actores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T16:27:14.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAlmacenadorArchivos.cs",
+              "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Utilidades\\IAlmacenadorArchivos.cs",
+              "RelativeDocumentMoniker": "backEnd\\Utilidades\\IAlmacenadorArchivos.cs",
+              "ToolTip": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Utilidades\\IAlmacenadorArchivos.cs",
+              "RelativeToolTip": "backEnd\\Utilidades\\IAlmacenadorArchivos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:02:31.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AlmacenadorArchivosLocal.cs",
+              "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Utilidades\\AlmacenadorArchivosLocal.cs",
+              "RelativeDocumentMoniker": "backEnd\\Utilidades\\AlmacenadorArchivosLocal.cs",
+              "ToolTip": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Utilidades\\AlmacenadorArchivosLocal.cs",
+              "RelativeToolTip": "backEnd\\Utilidades\\AlmacenadorArchivosLocal.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwB0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T12:58:35.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250402120922_Actores.cs",
+              "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Migrations\\20250402120922_Actores.cs",
+              "RelativeDocumentMoniker": "backEnd\\Migrations\\20250402120922_Actores.cs",
+              "ToolTip": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Migrations\\20250402120922_Actores.cs",
+              "RelativeToolTip": "backEnd\\Migrations\\20250402120922_Actores.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T12:09:22.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ActoresController.cs",
+              "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Controllers\\ActoresController.cs",
+              "RelativeDocumentMoniker": "backEnd\\Controllers\\ActoresController.cs",
+              "ToolTip": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Controllers\\ActoresController.cs",
+              "RelativeToolTip": "backEnd\\Controllers\\ActoresController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAjwFMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T17:46:52.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActorCreacionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\DTOs\\ActorCreacionDTO.cs",
+              "RelativeDocumentMoniker": "backEnd\\DTOs\\ActorCreacionDTO.cs",
+              "ToolTip": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\DTOs\\ActorCreacionDTO.cs",
+              "RelativeToolTip": "backEnd\\DTOs\\ActorCreacionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T17:43:47.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ActorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\DTOs\\ActorDTO.cs",
+              "RelativeDocumentMoniker": "backEnd\\DTOs\\ActorDTO.cs",
+              "ToolTip": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\DTOs\\ActorDTO.cs",
+              "RelativeToolTip": "backEnd\\DTOs\\ActorDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T17:42:10.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Entidades\\Actor.cs",
+              "RelativeDocumentMoniker": "backEnd\\Entidades\\Actor.cs",
+              "ToolTip": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Entidades\\Actor.cs",
+              "RelativeToolTip": "backEnd\\Entidades\\Actor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T17:39:06.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "IQueryableExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Utilidades\\IQueryableExtensions.cs",
               "RelativeDocumentMoniker": "backEnd\\Utilidades\\IQueryableExtensions.cs",
               "ToolTip": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Utilidades\\IQueryableExtensions.cs",
               "RelativeToolTip": "backEnd\\Utilidades\\IQueryableExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T15:09:07.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "HttpContextExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Utilidades\\HttpContextExtensions.cs",
               "RelativeDocumentMoniker": "backEnd\\Utilidades\\HttpContextExtensions.cs",
@@ -95,12 +247,11 @@
               "RelativeToolTip": "backEnd\\Utilidades\\HttpContextExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T15:02:28.274Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T15:02:28.274Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "PaginacionDTO.cs",
               "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\DTOs\\PaginacionDTO.cs",
               "RelativeDocumentMoniker": "backEnd\\DTOs\\PaginacionDTO.cs",
@@ -113,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "GeneroCreacionDTO.cs",
               "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\DTOs\\GeneroCreacionDTO.cs",
               "RelativeDocumentMoniker": "backEnd\\DTOs\\GeneroCreacionDTO.cs",
@@ -126,20 +277,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "AutoMapperProfiles.cs",
               "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Utilidades\\AutoMapperProfiles.cs",
               "RelativeDocumentMoniker": "backEnd\\Utilidades\\AutoMapperProfiles.cs",
               "ToolTip": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Utilidades\\AutoMapperProfiles.cs",
               "RelativeToolTip": "backEnd\\Utilidades\\AutoMapperProfiles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T13:46:29.041Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "GeneroDTO.cs",
               "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\DTOs\\GeneroDTO.cs",
               "RelativeDocumentMoniker": "backEnd\\DTOs\\GeneroDTO.cs",
@@ -152,33 +303,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "20250331103820_Initial.cs",
               "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Migrations\\20250331103820_Initial.cs",
               "RelativeDocumentMoniker": "backEnd\\Migrations\\20250331103820_Initial.cs",
               "ToolTip": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Migrations\\20250331103820_Initial.cs",
               "RelativeToolTip": "backEnd\\Migrations\\20250331103820_Initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T10:38:20.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T10:38:20.464Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "backEnd\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\ApplicationDbContext.cs",
               "RelativeToolTip": "backEnd\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T10:28:36.423Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "FiltroDeExcepcion.cs",
               "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Filtros\\FiltroDeExcepcion.cs",
               "RelativeDocumentMoniker": "backEnd\\Filtros\\FiltroDeExcepcion.cs",
@@ -191,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\appsettings.json",
               "RelativeDocumentMoniker": "backEnd\\appsettings.json",
@@ -199,12 +349,11 @@
               "RelativeToolTip": "backEnd\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-28T18:22:24.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T18:22:24.092Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\appsettings.Development.json",
               "RelativeDocumentMoniker": "backEnd\\appsettings.Development.json",
@@ -212,38 +361,37 @@
               "RelativeToolTip": "backEnd\\appsettings.Development.json",
               "ViewState": "AgIAAAUAAAAAAAAAAABRwAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-28T17:55:26.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T17:55:26.447Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "GeneroController.cs",
               "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Controllers\\GeneroController.cs",
               "RelativeDocumentMoniker": "backEnd\\Controllers\\GeneroController.cs",
               "ToolTip": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Controllers\\GeneroController.cs",
               "RelativeToolTip": "backEnd\\Controllers\\GeneroController.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAkwE8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-28T16:47:18.227Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Program.cs",
               "RelativeDocumentMoniker": "backEnd\\Program.cs",
               "ToolTip": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Program.cs",
               "RelativeToolTip": "backEnd\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAIwBMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-28T12:23:09.333Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 19,
               "Title": "Genero.cs",
               "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Entidades\\Genero.cs",
               "RelativeDocumentMoniker": "backEnd\\Entidades\\Genero.cs",
@@ -251,8 +399,7 @@
               "RelativeToolTip": "backEnd\\Entidades\\Genero.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T12:04:00.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T12:04:00.306Z"
             },
             {
               "$type": "Bookmark",
