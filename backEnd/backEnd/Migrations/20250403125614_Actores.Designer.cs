@@ -12,7 +12,7 @@ using backEnd;
 namespace backEnd.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250402162744_Actores")]
+    [Migration("20250403125614_Actores")]
     partial class Actores
     {
         /// <inheritdoc />
@@ -41,7 +41,6 @@ namespace backEnd.Migrations
                         .HasColumnType("datetime2");
 
                     b.Property<string>("Foto")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Nombre")
@@ -52,6 +51,24 @@ namespace backEnd.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Actores");
+                });
+
+            modelBuilder.Entity("backEnd.Entidades.Cine", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Nombre")
+                        .IsRequired()
+                        .HasMaxLength(75)
+                        .HasColumnType("nvarchar(75)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Cines");
                 });
 
             modelBuilder.Entity("backEnd.Entidades.Genero", b =>

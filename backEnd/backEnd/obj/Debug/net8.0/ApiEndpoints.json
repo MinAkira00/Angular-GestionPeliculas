@@ -140,7 +140,143 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "backEnd.Controllers.GeneroController",
+    "ContainingType": "backEnd.Controllers.ActoresController",
+    "Method": "BuscarPorNombre",
+    "RelativePath": "api/actores/buscarPorNombre",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nombre",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[backEnd.DTOs.PeliculaActorDto, backEnd, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "backEnd.Controllers.CinesController",
+    "Method": "Get",
+    "RelativePath": "api/cines",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Pagina",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "RecordsPorPagina",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[backEnd.DTOs.CineDto, backEnd, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "backEnd.Controllers.CinesController",
+    "Method": "Post",
+    "RelativePath": "api/cines",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cineCreacionDTO",
+        "Type": "backEnd.DTOs.CineCreacionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backEnd.Controllers.CinesController",
+    "Method": "Get",
+    "RelativePath": "api/cines/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "backEnd.DTOs.CineDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "backEnd.Controllers.CinesController",
+    "Method": "Put",
+    "RelativePath": "api/cines/{Id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "cineCreacionDTO",
+        "Type": "backEnd.DTOs.CineCreacionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backEnd.Controllers.CinesController",
+    "Method": "Delete",
+    "RelativePath": "api/cines/{Id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backEnd.Controllers.GenerosController",
     "Method": "Get",
     "RelativePath": "api/generos",
     "HttpMethod": "GET",
@@ -171,7 +307,7 @@
     ]
   },
   {
-    "ContainingType": "backEnd.Controllers.GeneroController",
+    "ContainingType": "backEnd.Controllers.GenerosController",
     "Method": "Post",
     "RelativePath": "api/generos",
     "HttpMethod": "POST",
@@ -187,7 +323,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "backEnd.Controllers.GeneroController",
+    "ContainingType": "backEnd.Controllers.GenerosController",
     "Method": "Get",
     "RelativePath": "api/generos/{Id}",
     "HttpMethod": "GET",
@@ -213,7 +349,7 @@
     ]
   },
   {
-    "ContainingType": "backEnd.Controllers.GeneroController",
+    "ContainingType": "backEnd.Controllers.GenerosController",
     "Method": "Put",
     "RelativePath": "api/generos/{Id}",
     "HttpMethod": "PUT",
@@ -234,7 +370,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "backEnd.Controllers.GeneroController",
+    "ContainingType": "backEnd.Controllers.GenerosController",
     "Method": "Delete",
     "RelativePath": "api/generos/{Id}",
     "HttpMethod": "DELETE",
@@ -248,5 +384,107 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backEnd.Controllers.PeliculasController",
+    "Method": "Post",
+    "RelativePath": "api/peliculas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Titulo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Resumen",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Trailer",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "EnCines",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "FechaLanzamiento",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "Poster",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "GenerosIds",
+        "Type": "System.Collections.Generic.List\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "CinesIds",
+        "Type": "System.Collections.Generic.List\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Actores",
+        "Type": "System.Collections.Generic.List\u00601[[backEnd.DTOs.ActorPeliculaCreacionDto, backEnd, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backEnd.Controllers.PeliculasController",
+    "Method": "Get",
+    "RelativePath": "api/peliculas/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "backEnd.DTOs.PeliculaDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "backEnd.Controllers.PeliculasController",
+    "Method": "PostGet",
+    "RelativePath": "api/peliculas/postget",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "backEnd.DTOs.PeliculasPostGetDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   }
 ]

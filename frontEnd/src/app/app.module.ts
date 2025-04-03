@@ -37,6 +37,7 @@ import { AutocompleteActoresComponent } from './actores/autocomplete-actores/aut
 import { MapaComponent } from './utilidades/mapa/mapa.component';
 import {HttpClientModule} from '@angular/common/http';
 import { MostrarErroresComponent } from './utilidades/mostrar-errores/mostrar-errores.component';
+import { DetallePeliculaComponent } from './peliculas/detalle-pelicula/detalle-pelicula.component';
 
 @NgModule({
   declarations: [
@@ -67,7 +68,8 @@ import { MostrarErroresComponent } from './utilidades/mostrar-errores/mostrar-er
     SelectorMutilpleComponent,
     AutocompleteActoresComponent,
     MapaComponent,
-    MostrarErroresComponent
+    MostrarErroresComponent,
+    DetallePeliculaComponent
   ],
   imports: [
     BrowserModule,

@@ -174,3 +174,4 @@ C:\Users\Practicas\Proyecto_Practicas\backEnd\backEnd\bin\Debug\net8.0\runtimes\
 C:\Users\Practicas\Proyecto_Practicas\backEnd\backEnd\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\Practicas\Proyecto_Practicas\backEnd\backEnd\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\Practicas\Proyecto_Practicas\backEnd\backEnd\bin\Debug\net8.0\backEnd.staticwebassets.runtime.json
+C:\Users\Practicas\Proyecto_Practicas\backEnd\backEnd\bin\Debug\net8.0\Newtonsoft.Json.dll

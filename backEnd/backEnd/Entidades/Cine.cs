@@ -8,6 +8,6 @@ namespace backEnd.Entidades
         [Required]
         [StringLength(maximumLength:75)]
         public string Nombre { get; set; }
-
+        public List<PeliculasCines> PeliculasCines { get; set; }
     }
 }

@@ -1,6 +1,7 @@
 import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 import { cineCreacionDTO } from '../cine';
+import { primeraLetraMayuscula } from 'src/app/utilidades/validadores/primeraLetraMayuscula';
 
 @Component({
   selector: 'app-formulario-cine',
@@ -13,6 +14,9 @@ export class FormularioCineComponent implements OnInit {
   form: FormGroup;
 
   @Input()
+  errores: string[] = [];
+
+  @Input()
   modelo: cineCreacionDTO;
 
   @Output()
@@ -23,9 +27,8 @@ export class FormularioCineComponent implements OnInit {
       nombre: [
         '',
         {
-          validators: [Validators.required],
-        },
-      ]
+          validators: [Validators.required, primeraLetraMayuscula()],
+        },]
     });
 
     if (this.modelo !== undefined){

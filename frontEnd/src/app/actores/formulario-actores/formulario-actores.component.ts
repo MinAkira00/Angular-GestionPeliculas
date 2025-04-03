@@ -22,7 +22,7 @@ export class FormularioActoresComponent implements OnInit {
   @Output()
   OnSubmit: EventEmitter<actorCreacionDTO> = new EventEmitter<actorCreacionDTO>();
 
-  imagenCambiada = true;
+  imagenCambiada = false;
   
   ngOnInit(): void {
     this.form = this.formBuilder.group({
