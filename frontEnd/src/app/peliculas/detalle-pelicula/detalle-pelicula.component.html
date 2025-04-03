@@ -1,0 +1,11 @@
+<div *ngIf="pelicula" style="display: flex;">
+    <div>
+        <h2>{{pelicula.titulo}} ({{fechaLanzamiento.getFullYear()}})</h2>
+
+        <mat-chip-list>
+            <mat-chip [routerLink]="['peliculas/buscar']" [queryParams]="{generoId: genero.id}" *ngFor="let genero of pelicula.generos">{{genero.nombre}}</mat-chip>
+        </mat-chip-list>
+        {{fechaLanzamiento.toDateString()}} | Promedio: 0.0 | Tu voto: 0.0
+    </div>
+</div>
+<mat-spinner *ngIf="!pelicula"></mat-spinner>

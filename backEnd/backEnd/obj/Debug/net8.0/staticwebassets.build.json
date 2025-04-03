@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Pbrec397p3XClGFt+RMy0icYUpu6Jw0dxvU2GWm0Uzw=",
+  "Hash": "gSSNpPSuYYi+HwJGZHsPFauDUZM7vULolj739ZCZHs4=",
   "Source": "backEnd",
   "BasePath": "_content/backEnd",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\actores\\280d452f-c5f8-45ea-8f1d-8a31328f62ca.jpg",
+      "Identity": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\actores\\0960ff0d-ef31-4595-8dc1-8bed40de02ec.jpg",
       "SourceId": "backEnd",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\",
       "BasePath": "_content/backEnd",
-      "RelativePath": "actores/280d452f-c5f8-45ea-8f1d-8a31328f62ca#[.{fingerprint}]?.jpg",
+      "RelativePath": "actores/0960ff0d-ef31-4595-8dc1-8bed40de02ec#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -35,7 +35,7 @@
       "Integrity": "ikfxO8BJbGD/xtpCKZ9tflvjE8+OLtAqpq17OH9PQ/I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\actores\\280d452f-c5f8-45ea-8f1d-8a31328f62ca.jpg"
+      "OriginalItemSpec": "wwwroot\\actores\\0960ff0d-ef31-4595-8dc1-8bed40de02ec.jpg"
     },
     {
       "Identity": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\actores\\3832d069-8e97-4c78-b4f7-4ea5b3e02b4b.jpg",
@@ -78,12 +78,243 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\actores\\3a066aba-5c7d-4152-ae83-4b2889723007.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\actores\\645710d8-85db-404c-84c2-76aa6e0d0111.jpg",
+      "SourceId": "backEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\",
+      "BasePath": "_content/backEnd",
+      "RelativePath": "actores/645710d8-85db-404c-84c2-76aa6e0d0111#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "arevo5x851",
+      "Integrity": "ikfxO8BJbGD/xtpCKZ9tflvjE8+OLtAqpq17OH9PQ/I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\actores\\645710d8-85db-404c-84c2-76aa6e0d0111.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\actores\\d9129de4-c0bd-434c-834f-fbfc0a3eca7c.jpg",
+      "SourceId": "backEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\",
+      "BasePath": "_content/backEnd",
+      "RelativePath": "actores/d9129de4-c0bd-434c-834f-fbfc0a3eca7c#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d1gvjya0n3",
+      "Integrity": "D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\actores\\d9129de4-c0bd-434c-834f-fbfc0a3eca7c.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\actores\\fee050fa-116f-4ebd-a858-3b943a27e857.jpg",
+      "SourceId": "backEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\",
+      "BasePath": "_content/backEnd",
+      "RelativePath": "actores/fee050fa-116f-4ebd-a858-3b943a27e857#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "arevo5x851",
+      "Integrity": "ikfxO8BJbGD/xtpCKZ9tflvjE8+OLtAqpq17OH9PQ/I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\actores\\fee050fa-116f-4ebd-a858-3b943a27e857.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\actores\\fee05482-fc38-4269-8658-64706468f019.jpg",
+      "SourceId": "backEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\",
+      "BasePath": "_content/backEnd",
+      "RelativePath": "actores/fee05482-fc38-4269-8658-64706468f019#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d1gvjya0n3",
+      "Integrity": "D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\actores\\fee05482-fc38-4269-8658-64706468f019.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\18d160c0-56fa-468d-840d-afb9cd01fc56.jpg",
+      "SourceId": "backEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\",
+      "BasePath": "_content/backEnd",
+      "RelativePath": "peliculas/18d160c0-56fa-468d-840d-afb9cd01fc56#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d1gvjya0n3",
+      "Integrity": "D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\peliculas\\18d160c0-56fa-468d-840d-afb9cd01fc56.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\24385890-0c99-4519-ae57-801aa57df725.jpg",
+      "SourceId": "backEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\",
+      "BasePath": "_content/backEnd",
+      "RelativePath": "peliculas/24385890-0c99-4519-ae57-801aa57df725#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d1gvjya0n3",
+      "Integrity": "D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\peliculas\\24385890-0c99-4519-ae57-801aa57df725.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\508c8a22-ba0c-4c97-8cb4-4c44f1a628e1.jpg",
+      "SourceId": "backEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\",
+      "BasePath": "_content/backEnd",
+      "RelativePath": "peliculas/508c8a22-ba0c-4c97-8cb4-4c44f1a628e1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d1gvjya0n3",
+      "Integrity": "D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\peliculas\\508c8a22-ba0c-4c97-8cb4-4c44f1a628e1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\cb1be200-1489-44d3-a9c1-25a64406d6ba.jpg",
+      "SourceId": "backEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\",
+      "BasePath": "_content/backEnd",
+      "RelativePath": "peliculas/cb1be200-1489-44d3-a9c1-25a64406d6ba#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "arevo5x851",
+      "Integrity": "ikfxO8BJbGD/xtpCKZ9tflvjE8+OLtAqpq17OH9PQ/I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\peliculas\\cb1be200-1489-44d3-a9c1-25a64406d6ba.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\dfc5af06-9239-47eb-9602-f8ee48a914e9.jpg",
+      "SourceId": "backEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\",
+      "BasePath": "_content/backEnd",
+      "RelativePath": "peliculas/dfc5af06-9239-47eb-9602-f8ee48a914e9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d1gvjya0n3",
+      "Integrity": "D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\peliculas\\dfc5af06-9239-47eb-9602-f8ee48a914e9.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\e35a46ab-98a1-4490-9da0-a931ce0d240b.jpg",
+      "SourceId": "backEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\",
+      "BasePath": "_content/backEnd",
+      "RelativePath": "peliculas/e35a46ab-98a1-4490-9da0-a931ce0d240b#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "arevo5x851",
+      "Integrity": "ikfxO8BJbGD/xtpCKZ9tflvjE8+OLtAqpq17OH9PQ/I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\peliculas\\e35a46ab-98a1-4490-9da0-a931ce0d240b.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\eccae6f1-b52d-4a7a-9ce2-e275ca6d82f0.jpg",
+      "SourceId": "backEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\",
+      "BasePath": "_content/backEnd",
+      "RelativePath": "peliculas/eccae6f1-b52d-4a7a-9ce2-e275ca6d82f0#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d1gvjya0n3",
+      "Integrity": "D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\peliculas\\eccae6f1-b52d-4a7a-9ce2-e275ca6d82f0.jpg"
     }
   ],
   "Endpoints": [
     {
-      "Route": "actores/280d452f-c5f8-45ea-8f1d-8a31328f62ca.arevo5x851.jpg",
-      "AssetFile": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\actores\\280d452f-c5f8-45ea-8f1d-8a31328f62ca.jpg",
+      "Route": "actores/0960ff0d-ef31-4595-8dc1-8bed40de02ec.arevo5x851.jpg",
+      "AssetFile": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\actores\\0960ff0d-ef31-4595-8dc1-8bed40de02ec.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -104,7 +335,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 09:47:48 GMT"
+          "Value": "Thu, 03 Apr 2025 13:04:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -118,7 +349,7 @@
         },
         {
           "Name": "label",
-          "Value": "actores/280d452f-c5f8-45ea-8f1d-8a31328f62ca.jpg"
+          "Value": "actores/0960ff0d-ef31-4595-8dc1-8bed40de02ec.jpg"
         },
         {
           "Name": "integrity",
@@ -127,8 +358,8 @@
       ]
     },
     {
-      "Route": "actores/280d452f-c5f8-45ea-8f1d-8a31328f62ca.jpg",
-      "AssetFile": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\actores\\280d452f-c5f8-45ea-8f1d-8a31328f62ca.jpg",
+      "Route": "actores/0960ff0d-ef31-4595-8dc1-8bed40de02ec.jpg",
+      "AssetFile": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\actores\\0960ff0d-ef31-4595-8dc1-8bed40de02ec.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -149,7 +380,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 09:47:48 GMT"
+          "Value": "Thu, 03 Apr 2025 13:04:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -186,7 +417,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 09:49:31 GMT"
+          "Value": "Thu, 03 Apr 2025 10:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -231,7 +462,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 09:49:31 GMT"
+          "Value": "Thu, 03 Apr 2025 10:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -268,7 +499,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 16:31:09 GMT"
+          "Value": "Thu, 03 Apr 2025 10:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -313,7 +544,909 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 16:31:09 GMT"
+          "Value": "Thu, 03 Apr 2025 10:00:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs="
+        }
+      ]
+    },
+    {
+      "Route": "actores/645710d8-85db-404c-84c2-76aa6e0d0111.arevo5x851.jpg",
+      "AssetFile": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\actores\\645710d8-85db-404c-84c2-76aa6e0d0111.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ikfxO8BJbGD/xtpCKZ9tflvjE8+OLtAqpq17OH9PQ/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 10:00:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "arevo5x851"
+        },
+        {
+          "Name": "label",
+          "Value": "actores/645710d8-85db-404c-84c2-76aa6e0d0111.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ikfxO8BJbGD/xtpCKZ9tflvjE8+OLtAqpq17OH9PQ/I="
+        }
+      ]
+    },
+    {
+      "Route": "actores/645710d8-85db-404c-84c2-76aa6e0d0111.jpg",
+      "AssetFile": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\actores\\645710d8-85db-404c-84c2-76aa6e0d0111.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ikfxO8BJbGD/xtpCKZ9tflvjE8+OLtAqpq17OH9PQ/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 10:00:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ikfxO8BJbGD/xtpCKZ9tflvjE8+OLtAqpq17OH9PQ/I="
+        }
+      ]
+    },
+    {
+      "Route": "actores/d9129de4-c0bd-434c-834f-fbfc0a3eca7c.d1gvjya0n3.jpg",
+      "AssetFile": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\actores\\d9129de4-c0bd-434c-834f-fbfc0a3eca7c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6989"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 10:57:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d1gvjya0n3"
+        },
+        {
+          "Name": "label",
+          "Value": "actores/d9129de4-c0bd-434c-834f-fbfc0a3eca7c.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs="
+        }
+      ]
+    },
+    {
+      "Route": "actores/d9129de4-c0bd-434c-834f-fbfc0a3eca7c.jpg",
+      "AssetFile": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\actores\\d9129de4-c0bd-434c-834f-fbfc0a3eca7c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6989"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 10:57:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs="
+        }
+      ]
+    },
+    {
+      "Route": "actores/fee050fa-116f-4ebd-a858-3b943a27e857.arevo5x851.jpg",
+      "AssetFile": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\actores\\fee050fa-116f-4ebd-a858-3b943a27e857.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ikfxO8BJbGD/xtpCKZ9tflvjE8+OLtAqpq17OH9PQ/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 10:57:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "arevo5x851"
+        },
+        {
+          "Name": "label",
+          "Value": "actores/fee050fa-116f-4ebd-a858-3b943a27e857.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ikfxO8BJbGD/xtpCKZ9tflvjE8+OLtAqpq17OH9PQ/I="
+        }
+      ]
+    },
+    {
+      "Route": "actores/fee050fa-116f-4ebd-a858-3b943a27e857.jpg",
+      "AssetFile": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\actores\\fee050fa-116f-4ebd-a858-3b943a27e857.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ikfxO8BJbGD/xtpCKZ9tflvjE8+OLtAqpq17OH9PQ/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 10:57:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ikfxO8BJbGD/xtpCKZ9tflvjE8+OLtAqpq17OH9PQ/I="
+        }
+      ]
+    },
+    {
+      "Route": "actores/fee05482-fc38-4269-8658-64706468f019.d1gvjya0n3.jpg",
+      "AssetFile": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\actores\\fee05482-fc38-4269-8658-64706468f019.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6989"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 13:05:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d1gvjya0n3"
+        },
+        {
+          "Name": "label",
+          "Value": "actores/fee05482-fc38-4269-8658-64706468f019.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs="
+        }
+      ]
+    },
+    {
+      "Route": "actores/fee05482-fc38-4269-8658-64706468f019.jpg",
+      "AssetFile": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\actores\\fee05482-fc38-4269-8658-64706468f019.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6989"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 13:05:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs="
+        }
+      ]
+    },
+    {
+      "Route": "peliculas/18d160c0-56fa-468d-840d-afb9cd01fc56.d1gvjya0n3.jpg",
+      "AssetFile": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\18d160c0-56fa-468d-840d-afb9cd01fc56.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6989"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 17:08:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d1gvjya0n3"
+        },
+        {
+          "Name": "label",
+          "Value": "peliculas/18d160c0-56fa-468d-840d-afb9cd01fc56.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs="
+        }
+      ]
+    },
+    {
+      "Route": "peliculas/18d160c0-56fa-468d-840d-afb9cd01fc56.jpg",
+      "AssetFile": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\18d160c0-56fa-468d-840d-afb9cd01fc56.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6989"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 17:08:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs="
+        }
+      ]
+    },
+    {
+      "Route": "peliculas/24385890-0c99-4519-ae57-801aa57df725.d1gvjya0n3.jpg",
+      "AssetFile": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\24385890-0c99-4519-ae57-801aa57df725.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6989"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 17:08:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d1gvjya0n3"
+        },
+        {
+          "Name": "label",
+          "Value": "peliculas/24385890-0c99-4519-ae57-801aa57df725.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs="
+        }
+      ]
+    },
+    {
+      "Route": "peliculas/24385890-0c99-4519-ae57-801aa57df725.jpg",
+      "AssetFile": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\24385890-0c99-4519-ae57-801aa57df725.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6989"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 17:08:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs="
+        }
+      ]
+    },
+    {
+      "Route": "peliculas/508c8a22-ba0c-4c97-8cb4-4c44f1a628e1.d1gvjya0n3.jpg",
+      "AssetFile": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\508c8a22-ba0c-4c97-8cb4-4c44f1a628e1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6989"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 16:34:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d1gvjya0n3"
+        },
+        {
+          "Name": "label",
+          "Value": "peliculas/508c8a22-ba0c-4c97-8cb4-4c44f1a628e1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs="
+        }
+      ]
+    },
+    {
+      "Route": "peliculas/508c8a22-ba0c-4c97-8cb4-4c44f1a628e1.jpg",
+      "AssetFile": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\508c8a22-ba0c-4c97-8cb4-4c44f1a628e1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6989"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 16:34:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs="
+        }
+      ]
+    },
+    {
+      "Route": "peliculas/cb1be200-1489-44d3-a9c1-25a64406d6ba.arevo5x851.jpg",
+      "AssetFile": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\cb1be200-1489-44d3-a9c1-25a64406d6ba.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ikfxO8BJbGD/xtpCKZ9tflvjE8+OLtAqpq17OH9PQ/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 16:21:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "arevo5x851"
+        },
+        {
+          "Name": "label",
+          "Value": "peliculas/cb1be200-1489-44d3-a9c1-25a64406d6ba.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ikfxO8BJbGD/xtpCKZ9tflvjE8+OLtAqpq17OH9PQ/I="
+        }
+      ]
+    },
+    {
+      "Route": "peliculas/cb1be200-1489-44d3-a9c1-25a64406d6ba.jpg",
+      "AssetFile": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\cb1be200-1489-44d3-a9c1-25a64406d6ba.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ikfxO8BJbGD/xtpCKZ9tflvjE8+OLtAqpq17OH9PQ/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 16:21:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ikfxO8BJbGD/xtpCKZ9tflvjE8+OLtAqpq17OH9PQ/I="
+        }
+      ]
+    },
+    {
+      "Route": "peliculas/dfc5af06-9239-47eb-9602-f8ee48a914e9.d1gvjya0n3.jpg",
+      "AssetFile": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\dfc5af06-9239-47eb-9602-f8ee48a914e9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6989"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 17:07:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d1gvjya0n3"
+        },
+        {
+          "Name": "label",
+          "Value": "peliculas/dfc5af06-9239-47eb-9602-f8ee48a914e9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs="
+        }
+      ]
+    },
+    {
+      "Route": "peliculas/dfc5af06-9239-47eb-9602-f8ee48a914e9.jpg",
+      "AssetFile": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\dfc5af06-9239-47eb-9602-f8ee48a914e9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6989"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 17:07:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs="
+        }
+      ]
+    },
+    {
+      "Route": "peliculas/e35a46ab-98a1-4490-9da0-a931ce0d240b.arevo5x851.jpg",
+      "AssetFile": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\e35a46ab-98a1-4490-9da0-a931ce0d240b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ikfxO8BJbGD/xtpCKZ9tflvjE8+OLtAqpq17OH9PQ/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 17:30:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "arevo5x851"
+        },
+        {
+          "Name": "label",
+          "Value": "peliculas/e35a46ab-98a1-4490-9da0-a931ce0d240b.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ikfxO8BJbGD/xtpCKZ9tflvjE8+OLtAqpq17OH9PQ/I="
+        }
+      ]
+    },
+    {
+      "Route": "peliculas/e35a46ab-98a1-4490-9da0-a931ce0d240b.jpg",
+      "AssetFile": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\e35a46ab-98a1-4490-9da0-a931ce0d240b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ikfxO8BJbGD/xtpCKZ9tflvjE8+OLtAqpq17OH9PQ/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 17:30:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ikfxO8BJbGD/xtpCKZ9tflvjE8+OLtAqpq17OH9PQ/I="
+        }
+      ]
+    },
+    {
+      "Route": "peliculas/eccae6f1-b52d-4a7a-9ce2-e275ca6d82f0.d1gvjya0n3.jpg",
+      "AssetFile": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\eccae6f1-b52d-4a7a-9ce2-e275ca6d82f0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6989"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 17:06:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d1gvjya0n3"
+        },
+        {
+          "Name": "label",
+          "Value": "peliculas/eccae6f1-b52d-4a7a-9ce2-e275ca6d82f0.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs="
+        }
+      ]
+    },
+    {
+      "Route": "peliculas/eccae6f1-b52d-4a7a-9ce2-e275ca6d82f0.jpg",
+      "AssetFile": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\eccae6f1-b52d-4a7a-9ce2-e275ca6d82f0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6989"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 17:06:25 GMT"
         },
         {
           "Name": "Cache-Control",

@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\actores\\280d452f-c5f8-45ea-8f1d-8a31328f62ca.jpg",
-      "PackagePath": "staticwebassets\\actores\\280d452f-c5f8-45ea-8f1d-8a31328f62ca.jpg"
+      "Id": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\actores\\0960ff0d-ef31-4595-8dc1-8bed40de02ec.jpg",
+      "PackagePath": "staticwebassets\\actores\\0960ff0d-ef31-4595-8dc1-8bed40de02ec.jpg"
     },
     {
       "Id": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\actores\\3832d069-8e97-4c78-b4f7-4ea5b3e02b4b.jpg",
@@ -11,6 +11,50 @@
     {
       "Id": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\actores\\3a066aba-5c7d-4152-ae83-4b2889723007.jpg",
       "PackagePath": "staticwebassets\\actores\\3a066aba-5c7d-4152-ae83-4b2889723007.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\actores\\645710d8-85db-404c-84c2-76aa6e0d0111.jpg",
+      "PackagePath": "staticwebassets\\actores\\645710d8-85db-404c-84c2-76aa6e0d0111.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\actores\\d9129de4-c0bd-434c-834f-fbfc0a3eca7c.jpg",
+      "PackagePath": "staticwebassets\\actores\\d9129de4-c0bd-434c-834f-fbfc0a3eca7c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\actores\\fee050fa-116f-4ebd-a858-3b943a27e857.jpg",
+      "PackagePath": "staticwebassets\\actores\\fee050fa-116f-4ebd-a858-3b943a27e857.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\actores\\fee05482-fc38-4269-8658-64706468f019.jpg",
+      "PackagePath": "staticwebassets\\actores\\fee05482-fc38-4269-8658-64706468f019.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\18d160c0-56fa-468d-840d-afb9cd01fc56.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\18d160c0-56fa-468d-840d-afb9cd01fc56.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\24385890-0c99-4519-ae57-801aa57df725.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\24385890-0c99-4519-ae57-801aa57df725.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\508c8a22-ba0c-4c97-8cb4-4c44f1a628e1.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\508c8a22-ba0c-4c97-8cb4-4c44f1a628e1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\cb1be200-1489-44d3-a9c1-25a64406d6ba.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\cb1be200-1489-44d3-a9c1-25a64406d6ba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\dfc5af06-9239-47eb-9602-f8ee48a914e9.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\dfc5af06-9239-47eb-9602-f8ee48a914e9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\e35a46ab-98a1-4490-9da0-a931ce0d240b.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\e35a46ab-98a1-4490-9da0-a931ce0d240b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\eccae6f1-b52d-4a7a-9ce2-e275ca6d82f0.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\eccae6f1-b52d-4a7a-9ce2-e275ca6d82f0.jpg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.backEnd.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

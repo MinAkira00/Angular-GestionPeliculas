@@ -37,7 +37,7 @@
         </table>
 
         <mat-paginator [pageSizeOptions]="[5, 10, 20, 50]" showFirstLastButtons 
-        [length]="cantidadTotalRegistros" [pageSize]="cantidadRegistrosAMostrar"
+        [length]="cantidadTotalRegistros" class="mat-elevation-z8" [pageSize]="cantidadRegistrosAMostrar"
         (page)="actualizarPaginacion($event)"
         >
 

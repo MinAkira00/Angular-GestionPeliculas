@@ -10,17 +10,18 @@ namespace backEnd.Controllers
 {
     [Route("api/generos")]
     [ApiController]
-    public class GeneroController : ControllerBase
+    public class GenerosController : ControllerBase
     {
-        private readonly ILogger<GeneroController> logger;
+        private readonly ILogger<GenerosController> logger;
         private readonly ApplicationDbContext context;
         IMapper mapper;
-        public GeneroController(ILogger<GeneroController> logger, ApplicationDbContext context, IMapper mapper)
+        public GenerosController(ILogger<GenerosController> logger, ApplicationDbContext context, IMapper mapper)
         {
             this.logger = logger;
             this.context = context;
             this.mapper = mapper;
         }
+
         [HttpGet]
         public async Task<ActionResult<List<GeneroDTO>>> Get([FromQuery] PaginacionDTO paginacionDTO) {
            var queryable = context.Generos.AsQueryable();
@@ -66,13 +67,13 @@ namespace backEnd.Controllers
         [HttpDelete("{Id:int}")]
         public async Task<ActionResult> Delete(int Id)
         {
-            var existe = await context.Generos.AnyAsync(x => x.Id == Id);
+            var genero = await context.Generos.FirstOrDefaultAsync(x => x.Id == Id);
 
-            if (!existe) {
+            if (genero == null) {
                 return NotFound();
             }
 
-            context.Remove(new Genero() { Id = Id });
+            context.Remove(genero);
             await context.SaveChangesAsync();
             return NoContent();
         }
