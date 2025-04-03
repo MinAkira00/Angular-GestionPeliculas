@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\dtos\\actordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\dtos\\actordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\dtos\\actorcreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\dtos\\actorcreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\utilidades\\almacenadorarchivoslocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\utilidades\\almacenadorarchivoslocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\dtos\\actordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|solutionrelative:backend\\dtos\\actordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8623CE0-C1B1-4C72-BAEB-E17119DB1368}|backEnd\\backEnd.csproj|c:\\users\\practicas\\proyecto_practicas\\backend\\backend\\migrations\\20250402162744_actores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -102,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -118,8 +118,7 @@
               "RelativeToolTip": "backEnd\\Migrations\\20250402162744_Actores.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T16:27:44.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T16:27:44.379Z"
             },
             {
               "$type": "Document",
@@ -131,8 +130,7 @@
               "RelativeToolTip": "backEnd\\Migrations\\20250402162714_Actores.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T16:27:14.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T16:27:14.47Z"
             },
             {
               "$type": "Document",
@@ -144,12 +142,11 @@
               "RelativeToolTip": "backEnd\\Utilidades\\IAlmacenadorArchivos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T14:02:31.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T14:02:31.443Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AlmacenadorArchivosLocal.cs",
               "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Utilidades\\AlmacenadorArchivosLocal.cs",
               "RelativeDocumentMoniker": "backEnd\\Utilidades\\AlmacenadorArchivosLocal.cs",
@@ -157,8 +154,7 @@
               "RelativeToolTip": "backEnd\\Utilidades\\AlmacenadorArchivosLocal.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAYwB0AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T12:58:35.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T12:58:35.174Z"
             },
             {
               "$type": "Document",
@@ -174,38 +170,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ActoresController.cs",
               "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Controllers\\ActoresController.cs",
               "RelativeDocumentMoniker": "backEnd\\Controllers\\ActoresController.cs",
               "ToolTip": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Controllers\\ActoresController.cs",
               "RelativeToolTip": "backEnd\\Controllers\\ActoresController.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAjwFMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAjwEIAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T17:46:52.724Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ActorCreacionDTO.cs",
               "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\DTOs\\ActorCreacionDTO.cs",
               "RelativeDocumentMoniker": "backEnd\\DTOs\\ActorCreacionDTO.cs",
-              "ToolTip": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\DTOs\\ActorCreacionDTO.cs",
-              "RelativeToolTip": "backEnd\\DTOs\\ActorCreacionDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAqAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\DTOs\\ActorCreacionDTO.cs*",
+              "RelativeToolTip": "backEnd\\DTOs\\ActorCreacionDTO.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T17:43:47.642Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "ActorDTO.cs",
               "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\DTOs\\ActorDTO.cs",
               "RelativeDocumentMoniker": "backEnd\\DTOs\\ActorDTO.cs",
-              "ToolTip": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\DTOs\\ActorDTO.cs",
-              "RelativeToolTip": "backEnd\\DTOs\\ActorDTO.cs",
+              "ToolTip": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\DTOs\\ActorDTO.cs*",
+              "RelativeToolTip": "backEnd\\DTOs\\ActorDTO.cs*",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T17:42:10.652Z",
@@ -213,13 +209,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Actor.cs",
               "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Entidades\\Actor.cs",
               "RelativeDocumentMoniker": "backEnd\\Entidades\\Actor.cs",
               "ToolTip": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Entidades\\Actor.cs",
               "RelativeToolTip": "backEnd\\Entidades\\Actor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T17:39:06.892Z",
               "EditorCaption": ""
@@ -234,8 +230,7 @@
               "RelativeToolTip": "backEnd\\Utilidades\\IQueryableExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T15:09:07.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T15:09:07.613Z"
             },
             {
               "$type": "Document",
@@ -251,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PaginacionDTO.cs",
               "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\DTOs\\PaginacionDTO.cs",
               "RelativeDocumentMoniker": "backEnd\\DTOs\\PaginacionDTO.cs",
@@ -259,12 +254,11 @@
               "RelativeToolTip": "backEnd\\DTOs\\PaginacionDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T14:52:13.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T14:52:13.377Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "GeneroCreacionDTO.cs",
               "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\DTOs\\GeneroCreacionDTO.cs",
               "RelativeDocumentMoniker": "backEnd\\DTOs\\GeneroCreacionDTO.cs",
@@ -272,8 +266,7 @@
               "RelativeToolTip": "backEnd\\DTOs\\GeneroCreacionDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T13:56:20.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T13:56:20.596Z"
             },
             {
               "$type": "Document",
@@ -285,12 +278,11 @@
               "RelativeToolTip": "backEnd\\Utilidades\\AutoMapperProfiles.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T13:46:29.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T13:46:29.041Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "GeneroDTO.cs",
               "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\DTOs\\GeneroDTO.cs",
               "RelativeDocumentMoniker": "backEnd\\DTOs\\GeneroDTO.cs",
@@ -298,8 +290,7 @@
               "RelativeToolTip": "backEnd\\DTOs\\GeneroDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T13:16:47.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T13:16:47.83Z"
             },
             {
               "$type": "Document",
@@ -323,8 +314,7 @@
               "RelativeToolTip": "backEnd\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T10:28:36.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T10:28:36.423Z"
             },
             {
               "$type": "Document",
@@ -336,8 +326,7 @@
               "RelativeToolTip": "backEnd\\Filtros\\FiltroDeExcepcion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T09:38:53.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T09:38:53.429Z"
             },
             {
               "$type": "Document",
@@ -365,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "GeneroController.cs",
               "DocumentMoniker": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\Controllers\\GeneroController.cs",
               "RelativeDocumentMoniker": "backEnd\\Controllers\\GeneroController.cs",
@@ -373,8 +362,7 @@
               "RelativeToolTip": "backEnd\\Controllers\\GeneroController.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAEEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T16:47:18.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T16:47:18.227Z"
             },
             {
               "$type": "Document",
@@ -386,8 +374,7 @@
               "RelativeToolTip": "backEnd\\Program.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAIwBMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T12:23:09.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T12:23:09.333Z"
             },
             {
               "$type": "Document",

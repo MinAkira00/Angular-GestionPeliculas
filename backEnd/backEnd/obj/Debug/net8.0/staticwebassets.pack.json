@@ -1,12 +1,16 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\actores\\3a066aba-5c7d-4152-ae83-4b2889723007.jpg",
-      "PackagePath": "staticwebassets\\actores\\3a066aba-5c7d-4152-ae83-4b2889723007.jpg"
+      "Id": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\actores\\280d452f-c5f8-45ea-8f1d-8a31328f62ca.jpg",
+      "PackagePath": "staticwebassets\\actores\\280d452f-c5f8-45ea-8f1d-8a31328f62ca.jpg"
     },
     {
-      "Id": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\actores\\7a47e7a8-7c5c-42fb-83c9-505aaf33bfd9.jpg",
-      "PackagePath": "staticwebassets\\actores\\7a47e7a8-7c5c-42fb-83c9-505aaf33bfd9.jpg"
+      "Id": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\actores\\3832d069-8e97-4c78-b4f7-4ea5b3e02b4b.jpg",
+      "PackagePath": "staticwebassets\\actores\\3832d069-8e97-4c78-b4f7-4ea5b3e02b4b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\actores\\3a066aba-5c7d-4152-ae83-4b2889723007.jpg",
+      "PackagePath": "staticwebassets\\actores\\3a066aba-5c7d-4152-ae83-4b2889723007.jpg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.backEnd.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

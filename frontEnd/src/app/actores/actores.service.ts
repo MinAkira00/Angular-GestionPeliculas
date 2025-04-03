@@ -32,6 +32,9 @@ export class ActoresService {
 
   public editar(id:number, actor: actorCreacionDTO){
     const formData = this.construirFormData(actor)
+   formData.forEach((value,key) => {
+    console.log(`${key}:`,value)
+   })
     return this.http.put(`${this.apiURL}/${id}`, formData)
   }
 
@@ -43,7 +46,10 @@ export class ActoresService {
     }
     if(actor.foto){
       formData.append('foto', actor.foto)
+    } else if (!actor.foto){
+      formData.append('foto', '')
     }
+
     if(actor.biografia){
       formData.append('biografia', actor.biografia);
     }

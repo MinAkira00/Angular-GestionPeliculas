@@ -40,9 +40,11 @@ export class FormularioActoresComponent implements OnInit {
     if (this.modelo !== undefined){
       this.form.patchValue(this.modelo)
     }
+
   }
 
-  archivoSeleccionado(file){
+
+  archivoSeleccionado(file: File){
     this.imagenCambiada = true;
     this.form.get('foto').setValue(file);
   }
@@ -52,10 +54,13 @@ export class FormularioActoresComponent implements OnInit {
   }
 
   onSubmit(){
-    if(!this.imagenCambiada){
-      this.form.patchValue({'foto': null});
+    const formValue = this.form.value;
+    if(!this.imagenCambiada && this.modelo && this.modelo.foto){
+      formValue.foto = this.modelo.foto;
+    }else if (!this.imagenCambiada){
+      formValue.foto = null;
     }
-    this.OnSubmit.emit(this.form.value);
+    this.OnSubmit.emit(formValue);
   }
 
 }

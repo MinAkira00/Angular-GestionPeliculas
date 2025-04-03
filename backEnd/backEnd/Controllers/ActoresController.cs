@@ -64,9 +64,11 @@ namespace backEnd.Controllers
 
             actor = mapper.Map(actorCreacionDTO, actor);
 
-            if (actorCreacionDTO.Foto != null) {
+            if (actorCreacionDTO.Foto != null && actorCreacionDTO.Foto.Length > 0)
+            {
                 actor.Foto = await almacenadorArchivos.EditarArchivo(contenedor, actorCreacionDTO.Foto, actor.Foto);
             }
+            
 
             await context.SaveChangesAsync();
             return NoContent();
