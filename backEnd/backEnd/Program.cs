@@ -1,8 +1,13 @@
+using System.IdentityModel.Tokens.Jwt;
+using System.Text;
 using backEnd;
 using backEnd.Controllers;
 using backEnd.Filtros;
 using backEnd.Utilidades;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,7 +17,7 @@ builder.Services.AddControllers(options => {
     options.Filters.Add(typeof(FiltroDeExcepcion));
 }
     );
-
+JwtSecurityTokenHandler.DefaultInboundClaimTypeMap.Clear();
 var configuration = builder.Configuration;
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddAutoMapper(typeof(Program));
@@ -34,6 +39,23 @@ builder.Services.AddCors(options =>
             .WithExposedHeaders(new string[] {"cantidadTotalRegistros"});
     });
 });
+
+builder.Services.AddIdentity<IdentityUser, IdentityRole>()
+    .AddEntityFrameworkStores<ApplicationDbContext>()
+    .AddDefaultTokenProviders();
+
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+    .AddJwtBearer(opciones => 
+        opciones.TokenValidationParameters = new Microsoft.IdentityModel.Tokens.TokenValidationParameters {
+            ValidateIssuer = false,
+            ValidateAudience = false,
+            ValidateLifetime = true,
+            ValidateIssuerSigningKey = true,
+            IssuerSigningKey = new SymmetricSecurityKey(
+                Encoding.UTF8.GetBytes(configuration["llavejwt"])),
+            ClockSkew = TimeSpan.Zero
+    });
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

@@ -5,10 +5,14 @@ wwwroot\actores\645710d8-85db-404c-84c2-76aa6e0d0111.jpg
 wwwroot\actores\d9129de4-c0bd-434c-834f-fbfc0a3eca7c.jpg
 wwwroot\actores\fee050fa-116f-4ebd-a858-3b943a27e857.jpg
 wwwroot\actores\fee05482-fc38-4269-8658-64706468f019.jpg
+wwwroot\peliculas\076fca6e-dc56-4512-8c3e-d89f3718f3a3.jpg
 wwwroot\peliculas\18d160c0-56fa-468d-840d-afb9cd01fc56.jpg
 wwwroot\peliculas\24385890-0c99-4519-ae57-801aa57df725.jpg
+wwwroot\peliculas\43221622-034a-4c00-becd-8c1efa91585f.jpg
 wwwroot\peliculas\508c8a22-ba0c-4c97-8cb4-4c44f1a628e1.jpg
 wwwroot\peliculas\cb1be200-1489-44d3-a9c1-25a64406d6ba.jpg
 wwwroot\peliculas\dfc5af06-9239-47eb-9602-f8ee48a914e9.jpg
 wwwroot\peliculas\e35a46ab-98a1-4490-9da0-a931ce0d240b.jpg
+wwwroot\peliculas\e81b9847-ffe1-4578-9e0f-e7c33b94fb17.jpg
 wwwroot\peliculas\eccae6f1-b52d-4a7a-9ce2-e275ca6d82f0.jpg
+wwwroot\peliculas\f7697996-0c10-461c-8148-0a89d9d9266a.jpg
