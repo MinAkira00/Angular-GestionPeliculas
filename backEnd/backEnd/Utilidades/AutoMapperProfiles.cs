@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using backEnd.DTOs;
 using backEnd.Entidades;
+using Microsoft.AspNetCore.Identity;
 
 namespace backEnd.Utilidades
 {
@@ -26,6 +27,7 @@ namespace backEnd.Utilidades
                 .ForMember(x => x.Actores, options => options.MapFrom(MapearPeliculasActores))
                 .ForMember(x => x.Cines, options => options.MapFrom(MapearPeliculasCines));
 
+            CreateMap<IdentityUser, UsuarioDto>();
         }
 
         private List<CineDto> MapearPeliculasCines(Pelicula pelicula, PeliculaDto peliculaDto)

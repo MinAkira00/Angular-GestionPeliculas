@@ -11,13 +11,14 @@ using Microsoft.IdentityModel.Tokens;
 
 var builder = WebApplication.CreateBuilder(args);
 
+JwtSecurityTokenHandler.DefaultInboundClaimTypeMap.Clear();
 // Add services to the container.
 
 builder.Services.AddControllers(options => { 
     options.Filters.Add(typeof(FiltroDeExcepcion));
 }
     );
-JwtSecurityTokenHandler.DefaultInboundClaimTypeMap.Clear();
+
 var configuration = builder.Configuration;
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddAutoMapper(typeof(Program));
@@ -45,8 +46,9 @@ builder.Services.AddIdentity<IdentityUser, IdentityRole>()
     .AddDefaultTokenProviders();
 
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
-    .AddJwtBearer(opciones => 
-        opciones.TokenValidationParameters = new Microsoft.IdentityModel.Tokens.TokenValidationParameters {
+    .AddJwtBearer(opciones => {
+        opciones.TokenValidationParameters = new TokenValidationParameters
+        {
             ValidateIssuer = false,
             ValidateAudience = false,
             ValidateLifetime = true,
@@ -54,7 +56,17 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
             IssuerSigningKey = new SymmetricSecurityKey(
                 Encoding.UTF8.GetBytes(configuration["llavejwt"])),
             ClockSkew = TimeSpan.Zero
-    });
+        };
+        opciones.MapInboundClaims = false;
+       }
+        
+        );
+
+builder.Services.AddAuthorization(opciones =>
+{
+    opciones.AddPolicy("EsAdmin", policy => policy.RequireClaim("role", "admin"));
+
+});
 
 var app = builder.Build();
 
@@ -72,6 +84,8 @@ app.UseStaticFiles();
 app.UseCors();
 
 app.UseRouting();
+
+app.UseAuthentication();
 
 app.UseAuthorization();
 

@@ -1,4 +1,5 @@
 ﻿using backEnd.DTOs;
+using backEnd.Entidades;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
@@ -22,7 +23,6 @@ namespace backEnd.Controllers
         [HttpPost]
         [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
         public async Task<ActionResult> Post([FromBody] RatingDto ratingDto) {
-
             var email = HttpContext.User.Claims.FirstOrDefault(x => x.Type == "email").Value;
             var usuario = await userManager.FindByEmailAsync(email);
             var usuarioId = usuario.Id;
@@ -33,17 +33,15 @@ namespace backEnd.Controllers
 
             if (ratingActual == null)
             {
-                var rating = new Entidades.Rating();
+                var rating = new Rating();
                 rating.PeliculaId = ratingDto.PeliculaId;
                 rating.Puntuacion = ratingDto.Puntuacion;
                 rating.UsuarioId = usuarioId;
                 context.Add(rating);
-                await context.SaveChangesAsync();
             }
             else {
                 ratingActual.Puntuacion = ratingDto.Puntuacion;
             }
-
             await context.SaveChangesAsync();
             return NoContent();
 

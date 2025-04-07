@@ -303,6 +303,53 @@
   },
   {
     "ContainingType": "backEnd.Controllers.CuentasController",
+    "Method": "HacerAdmin",
+    "RelativePath": "api/cuentas/haceradmin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioid",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backEnd.Controllers.CuentasController",
+    "Method": "ListadoUsuarios",
+    "RelativePath": "api/cuentas/listadousuarios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Pagina",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "RecordsPorPagina",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[backEnd.DTOs.UsuarioDto, backEnd, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "backEnd.Controllers.CuentasController",
     "Method": "Login",
     "RelativePath": "api/cuentas/login",
     "HttpMethod": "POST",
@@ -326,6 +373,22 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "backEnd.Controllers.CuentasController",
+    "Method": "RemoverAdmin",
+    "RelativePath": "api/cuentas/removeradmin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioid",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   },
   {
     "ContainingType": "backEnd.Controllers.GenerosController",

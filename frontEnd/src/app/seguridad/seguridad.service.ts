@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
-import { credencialesUsuario, respuestaAutenticacion } from './seguridad';
+import { credencialesUsuario, respuestaAutenticacion, usuarioDto } from './seguridad';
 import { Observable } from 'rxjs';
-import { HttpClient } from '@angular/common/http';
+import { HttpClient, HttpHeaders, HttpParams } from '@angular/common/http';
 import { environment } from 'src/environments/environment';
 import { Expansion } from '@angular/compiler';
 
@@ -14,6 +14,24 @@ export class SeguridadService {
   apiUrl = environment.apiURL + 'cuentas'
   private readonly llaveToken = 'token'
   private readonly llaveExpiracion = 'token-expiracion'
+  private readonly campoRol = 'role';
+
+  obtenerUsuario(pagina: number, recordsPorPagina: number): Observable<any> {
+    let params = new HttpParams();
+    params = params.append('pagina', pagina.toString())
+    params = params.append('recordsPorPagina', recordsPorPagina.toString())
+    return this.httpClient.get<usuarioDto[]>(`${this.apiUrl}/listadousuarios`, {observe: 'response', params})
+  }
+
+  hacerAdmin(usuarioId: string){
+    const headers = new HttpHeaders('Content-Type: application/json')
+    return this.httpClient.post(`${this.apiUrl}/haceradmin`, JSON.stringify(usuarioId), {headers})
+  }
+
+  removerAdmin(usuarioId: string){
+    const headers = new HttpHeaders('Content-Type: application/json')
+    return this.httpClient.post(`${this.apiUrl}/removeradmin`, JSON.stringify(usuarioId), {headers})
+  }
 
   estaLogueado(): boolean {
     const token = localStorage.getItem(this.llaveToken)
@@ -38,7 +56,7 @@ export class SeguridadService {
 
   
   obtenerRol():string {
-    return ''
+    return this.obtenerCampoJWT(this.campoRol)
   }
 
   obtenerCampoJWT(campo: string): string {
@@ -59,5 +77,9 @@ export class SeguridadService {
   guardarToken(respuestaAutenticacion: respuestaAutenticacion){
     localStorage.setItem(this.llaveToken, respuestaAutenticacion.token)
     localStorage.setItem(this.llaveExpiracion, respuestaAutenticacion.expiracion.toString())
+  }
+
+  obtenerToken(){
+    return localStorage.getItem(this.llaveToken)
   }
 }
