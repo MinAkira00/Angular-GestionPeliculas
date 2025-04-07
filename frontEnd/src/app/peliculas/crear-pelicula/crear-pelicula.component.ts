@@ -3,6 +3,7 @@ import { PeliculaCreacionDTO } from '../pelicula';
 import { PeliculasService } from '../peliculas.service';
 import { MultipleSelectorModel } from 'src/app/utilidades/selector-mutilple/MultipleSelectorModel';
 import { parsearErroresAPI } from 'src/app/utilidades/utilidades';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-crear-pelicula',
@@ -11,7 +12,7 @@ import { parsearErroresAPI } from 'src/app/utilidades/utilidades';
 })
 export class CrearPeliculaComponent implements OnInit {
 
-  constructor(private peliculasService: PeliculasService) { }
+  constructor(private peliculasService: PeliculasService, private router: Router) { }
 
   errores: string[] = [];
   generosNoSeleccionados: MultipleSelectorModel[];
@@ -34,7 +35,7 @@ export class CrearPeliculaComponent implements OnInit {
   
   guardarCambios(pelicula: PeliculaCreacionDTO){
     this.peliculasService.crear(pelicula)
-    .subscribe(() => console.log('exitoso'),
+    .subscribe((id: number) => this.router.navigate(['/pelicula/' + id]),
       error => this.errores = parsearErroresAPI(error))
   }
   

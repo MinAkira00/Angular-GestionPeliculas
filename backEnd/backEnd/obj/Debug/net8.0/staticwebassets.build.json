@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gSSNpPSuYYi+HwJGZHsPFauDUZM7vULolj739ZCZHs4=",
+  "Hash": "/rRmw0XclHpeODbLF1CN8BKRDLI716D6NgChSUVDukM=",
   "Source": "backEnd",
   "BasePath": "_content/backEnd",
   "Mode": "Default",
@@ -164,6 +164,27 @@
       "OriginalItemSpec": "wwwroot\\actores\\fee05482-fc38-4269-8658-64706468f019.jpg"
     },
     {
+      "Identity": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\076fca6e-dc56-4512-8c3e-d89f3718f3a3.jpg",
+      "SourceId": "backEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\",
+      "BasePath": "_content/backEnd",
+      "RelativePath": "peliculas/076fca6e-dc56-4512-8c3e-d89f3718f3a3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xlbexljn4e",
+      "Integrity": "u6iGwnyatdGldRWjJijvEuPb0Rx/y2phppcElgY3qVk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\peliculas\\076fca6e-dc56-4512-8c3e-d89f3718f3a3.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\18d160c0-56fa-468d-840d-afb9cd01fc56.jpg",
       "SourceId": "backEnd",
       "SourceType": "Discovered",
@@ -204,6 +225,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\peliculas\\24385890-0c99-4519-ae57-801aa57df725.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\43221622-034a-4c00-becd-8c1efa91585f.jpg",
+      "SourceId": "backEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\",
+      "BasePath": "_content/backEnd",
+      "RelativePath": "peliculas/43221622-034a-4c00-becd-8c1efa91585f#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ocevmmrqko",
+      "Integrity": "aHiB6uESh0pcRTDzxGVkzvrWI9c0axNY1J/HqYq0Ybs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\peliculas\\43221622-034a-4c00-becd-8c1efa91585f.jpg"
     },
     {
       "Identity": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\508c8a22-ba0c-4c97-8cb4-4c44f1a628e1.jpg",
@@ -290,6 +332,27 @@
       "OriginalItemSpec": "wwwroot\\peliculas\\e35a46ab-98a1-4490-9da0-a931ce0d240b.jpg"
     },
     {
+      "Identity": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\e81b9847-ffe1-4578-9e0f-e7c33b94fb17.jpg",
+      "SourceId": "backEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\",
+      "BasePath": "_content/backEnd",
+      "RelativePath": "peliculas/e81b9847-ffe1-4578-9e0f-e7c33b94fb17#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z76j958bji",
+      "Integrity": "P8N5DKXXwD1Jc51MKaUoGvur2dArzsCLtFwdV9fmbHM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\peliculas\\e81b9847-ffe1-4578-9e0f-e7c33b94fb17.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\eccae6f1-b52d-4a7a-9ce2-e275ca6d82f0.jpg",
       "SourceId": "backEnd",
       "SourceType": "Discovered",
@@ -309,6 +372,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\peliculas\\eccae6f1-b52d-4a7a-9ce2-e275ca6d82f0.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\f7697996-0c10-461c-8148-0a89d9d9266a.jpg",
+      "SourceId": "backEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\",
+      "BasePath": "_content/backEnd",
+      "RelativePath": "peliculas/f7697996-0c10-461c-8148-0a89d9d9266a#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d1gvjya0n3",
+      "Integrity": "D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\peliculas\\f7697996-0c10-461c-8148-0a89d9d9266a.jpg"
     }
   ],
   "Endpoints": [
@@ -887,6 +971,88 @@
       ]
     },
     {
+      "Route": "peliculas/076fca6e-dc56-4512-8c3e-d89f3718f3a3.jpg",
+      "AssetFile": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\076fca6e-dc56-4512-8c3e-d89f3718f3a3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14121"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u6iGwnyatdGldRWjJijvEuPb0Rx/y2phppcElgY3qVk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 11:01:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u6iGwnyatdGldRWjJijvEuPb0Rx/y2phppcElgY3qVk="
+        }
+      ]
+    },
+    {
+      "Route": "peliculas/076fca6e-dc56-4512-8c3e-d89f3718f3a3.xlbexljn4e.jpg",
+      "AssetFile": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\076fca6e-dc56-4512-8c3e-d89f3718f3a3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14121"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u6iGwnyatdGldRWjJijvEuPb0Rx/y2phppcElgY3qVk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 11:01:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xlbexljn4e"
+        },
+        {
+          "Name": "label",
+          "Value": "peliculas/076fca6e-dc56-4512-8c3e-d89f3718f3a3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u6iGwnyatdGldRWjJijvEuPb0Rx/y2phppcElgY3qVk="
+        }
+      ]
+    },
+    {
       "Route": "peliculas/18d160c0-56fa-468d-840d-afb9cd01fc56.d1gvjya0n3.jpg",
       "AssetFile": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\18d160c0-56fa-468d-840d-afb9cd01fc56.jpg",
       "Selectors": [],
@@ -1047,6 +1213,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs="
+        }
+      ]
+    },
+    {
+      "Route": "peliculas/43221622-034a-4c00-becd-8c1efa91585f.jpg",
+      "AssetFile": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\43221622-034a-4c00-becd-8c1efa91585f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14320"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aHiB6uESh0pcRTDzxGVkzvrWI9c0axNY1J/HqYq0Ybs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 10:53:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aHiB6uESh0pcRTDzxGVkzvrWI9c0axNY1J/HqYq0Ybs="
+        }
+      ]
+    },
+    {
+      "Route": "peliculas/43221622-034a-4c00-becd-8c1efa91585f.ocevmmrqko.jpg",
+      "AssetFile": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\43221622-034a-4c00-becd-8c1efa91585f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14320"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aHiB6uESh0pcRTDzxGVkzvrWI9c0axNY1J/HqYq0Ybs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 10:53:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ocevmmrqko"
+        },
+        {
+          "Name": "label",
+          "Value": "peliculas/43221622-034a-4c00-becd-8c1efa91585f.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aHiB6uESh0pcRTDzxGVkzvrWI9c0axNY1J/HqYq0Ybs="
         }
       ]
     },
@@ -1379,6 +1627,88 @@
       ]
     },
     {
+      "Route": "peliculas/e81b9847-ffe1-4578-9e0f-e7c33b94fb17.jpg",
+      "AssetFile": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\e81b9847-ffe1-4578-9e0f-e7c33b94fb17.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95183"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P8N5DKXXwD1Jc51MKaUoGvur2dArzsCLtFwdV9fmbHM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 11:04:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P8N5DKXXwD1Jc51MKaUoGvur2dArzsCLtFwdV9fmbHM="
+        }
+      ]
+    },
+    {
+      "Route": "peliculas/e81b9847-ffe1-4578-9e0f-e7c33b94fb17.z76j958bji.jpg",
+      "AssetFile": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\e81b9847-ffe1-4578-9e0f-e7c33b94fb17.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95183"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P8N5DKXXwD1Jc51MKaUoGvur2dArzsCLtFwdV9fmbHM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 11:04:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z76j958bji"
+        },
+        {
+          "Name": "label",
+          "Value": "peliculas/e81b9847-ffe1-4578-9e0f-e7c33b94fb17.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P8N5DKXXwD1Jc51MKaUoGvur2dArzsCLtFwdV9fmbHM="
+        }
+      ]
+    },
+    {
       "Route": "peliculas/eccae6f1-b52d-4a7a-9ce2-e275ca6d82f0.d1gvjya0n3.jpg",
       "AssetFile": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\eccae6f1-b52d-4a7a-9ce2-e275ca6d82f0.jpg",
       "Selectors": [],
@@ -1447,6 +1777,88 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 03 Apr 2025 17:06:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs="
+        }
+      ]
+    },
+    {
+      "Route": "peliculas/f7697996-0c10-461c-8148-0a89d9d9266a.d1gvjya0n3.jpg",
+      "AssetFile": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\f7697996-0c10-461c-8148-0a89d9d9266a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6989"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 13:49:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d1gvjya0n3"
+        },
+        {
+          "Name": "label",
+          "Value": "peliculas/f7697996-0c10-461c-8148-0a89d9d9266a.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs="
+        }
+      ]
+    },
+    {
+      "Route": "peliculas/f7697996-0c10-461c-8148-0a89d9d9266a.jpg",
+      "AssetFile": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\f7697996-0c10-461c-8148-0a89d9d9266a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6989"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D0JPrAVse0+da8dfCMJZQigapiT9/4LGbPGUrEAZFDs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 13:49:19 GMT"
         },
         {
           "Name": "Cache-Control",

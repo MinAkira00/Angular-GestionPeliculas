@@ -3,6 +3,8 @@ using AutoMapper;
 using backEnd.DTOs;
 using backEnd.Entidades;
 using backEnd.Utilidades;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -10,6 +12,7 @@ namespace backEnd.Controllers
 {
     [Route("api/generos")]
     [ApiController]
+    [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme, Policy = "EsAdmin")]
     public class GenerosController : ControllerBase
     {
         private readonly ILogger<GenerosController> logger;
@@ -22,11 +25,22 @@ namespace backEnd.Controllers
             this.mapper = mapper;
         }
 
+
         [HttpGet]
-        public async Task<ActionResult<List<GeneroDTO>>> Get([FromQuery] PaginacionDTO paginacionDTO) {
-           var queryable = context.Generos.AsQueryable();
+        public async Task<ActionResult<List<GeneroDTO>>> Get([FromQuery] PaginacionDTO paginacionDTO)
+        {
+            var queryable = context.Generos.AsQueryable();
             await HttpContext.InsertarParametrosPaginacionEnCabecera(queryable);
             var generos = await queryable.OrderBy(x => x.Nombre).Paginar(paginacionDTO).ToListAsync();
+            return mapper.Map<List<GeneroDTO>>(generos);
+        }
+
+        [HttpGet("todos")]
+        [AllowAnonymous]
+        public async Task<ActionResult<List<GeneroDTO>>> Todos()
+        {
+
+            var generos = await context.Generos.ToListAsync();
             return mapper.Map<List<GeneroDTO>>(generos);
         }
 

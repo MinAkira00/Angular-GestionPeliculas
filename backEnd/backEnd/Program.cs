@@ -1,11 +1,17 @@
+using System.IdentityModel.Tokens.Jwt;
+using System.Text;
 using backEnd;
 using backEnd.Controllers;
 using backEnd.Filtros;
 using backEnd.Utilidades;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
 
 var builder = WebApplication.CreateBuilder(args);
 
+JwtSecurityTokenHandler.DefaultInboundClaimTypeMap.Clear();
 // Add services to the container.
 
 builder.Services.AddControllers(options => { 
@@ -34,6 +40,34 @@ builder.Services.AddCors(options =>
             .WithExposedHeaders(new string[] {"cantidadTotalRegistros"});
     });
 });
+
+builder.Services.AddIdentity<IdentityUser, IdentityRole>()
+    .AddEntityFrameworkStores<ApplicationDbContext>()
+    .AddDefaultTokenProviders();
+
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+    .AddJwtBearer(opciones => {
+        opciones.TokenValidationParameters = new TokenValidationParameters
+        {
+            ValidateIssuer = false,
+            ValidateAudience = false,
+            ValidateLifetime = true,
+            ValidateIssuerSigningKey = true,
+            IssuerSigningKey = new SymmetricSecurityKey(
+                Encoding.UTF8.GetBytes(configuration["llavejwt"])),
+            ClockSkew = TimeSpan.Zero
+        };
+        opciones.MapInboundClaims = false;
+       }
+        
+        );
+
+builder.Services.AddAuthorization(opciones =>
+{
+    opciones.AddPolicy("EsAdmin", policy => policy.RequireClaim("role", "admin"));
+
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -50,6 +84,8 @@ app.UseStaticFiles();
 app.UseCors();
 
 app.UseRouting();
+
+app.UseAuthentication();
 
 app.UseAuthorization();
 

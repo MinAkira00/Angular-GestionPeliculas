@@ -29,12 +29,20 @@
       "PackagePath": "staticwebassets\\actores\\fee05482-fc38-4269-8658-64706468f019.jpg"
     },
     {
+      "Id": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\076fca6e-dc56-4512-8c3e-d89f3718f3a3.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\076fca6e-dc56-4512-8c3e-d89f3718f3a3.jpg"
+    },
+    {
       "Id": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\18d160c0-56fa-468d-840d-afb9cd01fc56.jpg",
       "PackagePath": "staticwebassets\\peliculas\\18d160c0-56fa-468d-840d-afb9cd01fc56.jpg"
     },
     {
       "Id": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\24385890-0c99-4519-ae57-801aa57df725.jpg",
       "PackagePath": "staticwebassets\\peliculas\\24385890-0c99-4519-ae57-801aa57df725.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\43221622-034a-4c00-becd-8c1efa91585f.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\43221622-034a-4c00-becd-8c1efa91585f.jpg"
     },
     {
       "Id": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\508c8a22-ba0c-4c97-8cb4-4c44f1a628e1.jpg",
@@ -53,8 +61,16 @@
       "PackagePath": "staticwebassets\\peliculas\\e35a46ab-98a1-4490-9da0-a931ce0d240b.jpg"
     },
     {
+      "Id": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\e81b9847-ffe1-4578-9e0f-e7c33b94fb17.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\e81b9847-ffe1-4578-9e0f-e7c33b94fb17.jpg"
+    },
+    {
       "Id": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\eccae6f1-b52d-4a7a-9ce2-e275ca6d82f0.jpg",
       "PackagePath": "staticwebassets\\peliculas\\eccae6f1-b52d-4a7a-9ce2-e275ca6d82f0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Practicas\\Proyecto_Practicas\\backEnd\\backEnd\\wwwroot\\peliculas\\f7697996-0c10-461c-8148-0a89d9d9266a.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\f7697996-0c10-461c-8148-0a89d9d9266a.jpg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.backEnd.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
